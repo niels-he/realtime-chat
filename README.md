@@ -1,6 +1,6 @@
 # realtime-chat
 
-updaIs an realtime chat example
+Is an realtime chat example in TypeScript with React, Apollo, Antd and graphql-yoga.
 
 ## Getting started
 
